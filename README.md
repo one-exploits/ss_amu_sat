@@ -1,2 +1,2 @@
 # ss_amu_sat
-satellite project amu Image processing
+satellite project, Image processing
